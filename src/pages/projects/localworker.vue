@@ -1,7 +1,7 @@
 <template>
     <div class="project-single page">
         
-        <h1 class="page-heading ">ServiceDoer</h1>
+        <h1 class="page-heading ">Localworker</h1>
 
         <div class="project-company-description" >
             <p >
@@ -43,14 +43,13 @@
         </div>
         -->
 
-        <img src="/images/projects/servicedoer/Home.jpg" class="img img-fluid project-img" />
-        <img src="/images/projects/servicedoer/Serive Providers List.jpg" class="img img-fluid project-img" />
-        <img src="/images/projects/servicedoer/Service Provider page.jpg" class="img img-fluid project-img" />
-        <img src="/images/projects/servicedoer/Become a doer.jpg" class="img img-fluid project-img" />
-        <img src="/images/projects/servicedoer/Become a doer Step 2.jpg" class="img img-fluid project-img" />
-        <img src="/images/projects/servicedoer/Subscription page.jpg" class="img img-fluid project-img" />
-        <img src="/images/projects/servicedoer/Privider Completiton of order.jpg" class="img img-fluid project-img" />
-        
+        <img src="/images/projects/localworker/home – 1.jpg" class="img img-fluid project-img" />
+        <img src="/images/projects/localworker/pros-service-event-photographer-new-york – 1.jpg" class="img img-fluid project-img" />
+        <img src="/images/projects/localworker/Pro login profile.jpg" class="img img-fluid project-img" />
+        <img src="/images/projects/localworker/Signup.jpg" class="img img-fluid project-img" />
+        <img src="/images/projects/localworker/signup-wizard-personal-info – 2.jpg" class="img img-fluid project-img" />
+        <img src="/images/projects/localworker/signup-wizard-personal-info – 3.jpg" class="img img-fluid project-img" />
+        <img src="/images/projects/localworker/signup-wizard-profile.jpg" class="img img-fluid project-img" />
 
         
     </div>

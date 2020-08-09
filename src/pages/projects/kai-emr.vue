@@ -39,12 +39,13 @@
         </div>
 -->
         <br/>
-        <img src="/images/projects/kai/screencapture-localhost-kai-billing-php-2019-08-14-16_52_59.jpg" class="img img-fluid project-img" />
-        <img src="/images/projects/kai/screencapture-localhost-kai-inbox-php-2019-08-14-16_52_34.jpg" class="img img-fluid project-img" />
-        <img src="/images/projects/kai/screencapture-localhost-kai-lab-queue-php-2019-08-14-16_55_17.jpg" class="img img-fluid project-img" />
-        <img src="/images/projects/kai/screencapture-localhost-kai-booking-clinic-settings-php-2019-08-14-16_53_31.jpg" class="img img-fluid project-img" />
-        <img src="/images/projects/kai/kai 1.JPG" class="img img-fluid project-img" />
-        <img src="/images/projects/kai/kai 2.JPG" class="img img-fluid project-img" />        
+        <img src="/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-billing-php-2020-08-08-17_26_30.jpg" class="img img-fluid project-img" />
+        <img src="/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-clinician-reply-php-2020-08-08-17_24_46.jpg" class="img img-fluid project-img" />        
+        <img src="/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-clinician-message-php-2020-08-08-17_24_56.jpg" class="img img-fluid project-img" />        
+        <img src="/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-manage-renewal-requests-php-2020-08-08-17_24_28.jpg" class="img img-fluid project-img" />
+        <img src="/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-rx-php-2020-08-08-17_24_08.jpg" class="img img-fluid project-img" />
+        <img src="/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-inbox-php-2020-08-08-17_42_39.jpg" class="img img-fluid project-img" />        
+        <img src="/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-inbox-php-2020-08-08-17_33_20.jpg" class="img img-fluid project-img" />        
     </div>
 </template>
 
