@@ -5,15 +5,11 @@
 
         <div class="project-company-description" >
             <p >
-                ServiceDoer is a side project that i've been working on and thinking of launching it in near future.
-                My view about servicedoer is to build a platform where people could find local professionals to get things done that can't be done remotely, for example (Wall painting, Tutors for children etc).
+                Localworker is another side project that i've been working on.
+                My view about localworker is to build a platform where people could find local professionals to get things done that can't be done remotely, for example (Wall painting, Tutors for children etc).
             </p>
-            <p>
-                My goal with this project is to build a very user friendly interface. I'm also planning to use ML(Machine Learning) to provide users an estimate cost according to their requried work.
-            </p>       
         </div>        
-        <a href="http://servicedoer.com" target="_blank" class="btn btn-outline-primary">Visit Website</a> 
-        <a href="https://github.com/iamqamarali/servicedoer" target="_blank" class="btn btn-outline-primary ml-3">Visit Repository</a> 
+        <a href="https://github.com/iamqamarali/localworkers" target="_blank" class="btn btn-outline-primary ml-3">Visit Repository</a> 
         <br>
         <br>
 
@@ -26,7 +22,6 @@
                 <span class="tag">JavaScript</span>
                 <span class="tag">Css3</span>
                 <span class="tag">HTML5</span>
-                <span class="tag">Tensorflow.js (For ML)</span>
             </div>
         </div>
         <br/>
