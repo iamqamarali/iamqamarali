@@ -2,7 +2,7 @@
     <div class="project-single page">
         
         <h1 class="page-heading">KAI EMR</h1>
-        <p class="project-company-description">Kai innovations is a SAAS company, they provide, physicians and doctors a EMR (Electronic Medical Record) system which they can use to keep track of their patients acconts etc more efficiently </p>
+        <p class="project-company-description">Kai innovations is a SAAS company, they provide, physicians and doctors an EMR (Electronic Medical Record) system which they can use to keep track of their patients medicine, drugs available and a whole lot of stuff  efficiently.</p>
 
         <a href="http://kaiinnovations.com" target="_blank" class="btn btn-outline-primary website-link">Visit Website</a>
         <br>
@@ -24,7 +24,8 @@
 
         <div class="project-responsibilities poject-detail-section">
             <h3>My Responsibilities</h3>
-            <p>For KAI EMR system i was supposed to develop front-end of the EMR system. I worked on this project in collaboration with a UI designer. The main challenge of this project was that the UI components has to be build in a way that all the UI components could be reused any where again.</p>
+            <p>For KAI EMR i was supposed to developed the <b>Front End</b> of the EMR system. On this project i worked in collaboration with a UI designer from Ontario, Canada.</p>
+            <p>The main challenge of this project was that the UI components has to be modular, such that any ui component should be able to be reused anywhere again in and out of the project</p>
         </div>
 
         <!--  slider -->

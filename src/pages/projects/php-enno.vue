@@ -8,7 +8,7 @@
                 Enno is a PHP based small web application development framework which gives developers a much reliable project structure, fast development time and scalability. 
             </p>
             <p>
-                From time to timr some of my clients used to ask me that they don't want any framework to be used in their project, they wanted to have code in plain PHP.
+                From time to time some of my clients used to ask me that they don't want any framework to be used in their project, they wanted to have code in plain PHP.
                 So i thought why not create a small web framework which could save me from the hassle of always starting out from scratch.
                 That's why i developed this framework so me and other developers can use it to lessen their development time. 
             </p>

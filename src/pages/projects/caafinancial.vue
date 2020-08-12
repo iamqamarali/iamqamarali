@@ -13,12 +13,12 @@
             <div class="tags">
                 <span class="tag">Laravel</span>
                 <span class="tag">Mongodb</span>
-                <span class="tag">Php</span>
                 <span class="tag">JavaScript</span>
-                <span class="tag">JQuery</span>
                 <span class="tag">Sass</span>
+                <span class="tag">Html5</span>
                 <span class="tag">Css3</span>
-                <span class="tag">Html</span>
+                <span class="tag">JQuery</span>
+                <span class="tag">Php</span>
                 <span class="tag">API Development</span>
                 <span class="tag">Google Cloud Services</span>
             </div>
@@ -29,29 +29,31 @@
             <ul>
                 <li>
                     <p>
-                         For this project my responsibilities were to developed front-end. back-end and everything of their <a href="https://caafinancial.com" target="_blank">main website</a>, i choose to use <strong>Laravel</strong> for their backend.
-                        i also developed a <a href="https://caafinancial.com/login" target="_blank">dashboard</a> for their customers and one <a href="http://app.caafinancial.com" target="_blank">employee dashboard</a> so their employees can do different stuff to help their customers.
+                        For caafinancial first i was hired to do <b>Full stack development</b> for their products,
+                        but i ended up doing the building, testing, deploying, managing and almost everything from development to devOps for their products.  
                     </p>
                 </li>
                 <li>
                     <p>
-                        I saw that they have aloooooooot of data so i choose to use <strong>MongoDB</strong> as the DB with <strong>Google Cloud Storage</strong> for storing files etc.
+                        First i created their main website which you can <a href="https://caafinancial.com" target="_blank">checkout here.</a> 
+                        Then i built a <a href="https://caafinancial.com/login" target="_blank">dashboard</a> for their employees to manage insurance automation and assist their customers.
                     </p>
                 </li>
                 <li>
                     <p>
-                        They had a windows bot which they use to find customer's previous insurance history data from different resources, so another part of project was to build an <strong>API</strong> and so BOT can communicate with the backend.
+                        They had a windows bot which automates the insurance process, 
+                        so i also developed a <b>REST API</b> for them so the bots can connect to the backend.
                     </p>
                 </li>
                 <li>
+                    <p>Finally i step a <b>CICD pipeline </b> for the project and deployed it on <b>GCP (Goodle Cloud Platform)</b> </p>
+                </li>
+                <li>
                     <p>
-                        It was a pretty huge project, and specially the database part, all the different parts of the software were connected to the same backend a centerialized datacenter for main site, customer dashboard, employee dashboard and the API.
-                        They were also planning to use AI for predicting insurance policy prices provided by different companies that was one another thing i had to take into consideration while structuring the database. 
-                    </p>
-                </li>   
-                <li> 
-                    <p>
-                        At the end i also installed a VM for them did deployment on the server and did all of the server administration.
+                        I think the main challenge with this project was the automation part, 
+                        we've to trigger the bots through the dashboard and also trigger backend scripts through the bot, there was alot of backend and forth communication with alot of data.
+                        <br>
+                        It was a very good experience for me working on this project, one of the best i should say.
                     </p>
                 </li>
             </ul>

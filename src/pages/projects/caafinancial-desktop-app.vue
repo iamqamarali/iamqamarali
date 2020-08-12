@@ -4,7 +4,7 @@
         <h1 class="page-heading d-inline-block">Caafinancial</h1> <span class="ml-3">(Desktop App Development)</span>
         <div class="project-company-description" >
             <p>This is a Desktop application that i build on <strong>Electron Framework</strong> for caafinancial. 
-            They wanted to have a software that their employees can install on their windows or mac machine and use to run schedules and manage their backend.</p>
+            They wanted to have a software like their web dashboard that their employees can install on their system to manage automation of insurances easily.</p>
         </div>
 
 
@@ -16,6 +16,7 @@
                 <span class="tag">Vue.js</span>
                 <span class="tag">JavaScript</span>
                 <span class="tag">Css3</span>
+                <span class="tag">HTML5</span>
             </div>
         </div>
 
