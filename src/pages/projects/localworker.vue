@@ -12,7 +12,7 @@
         <a href="https://github.com/iamqamarali/localworkers" target="_blank" class="btn btn-outline-primary ml-3">Visit Repository</a> 
         <br>
         <br>
-
+    
         <h3>Technology Stack</h3>
         <div class="technology-stack  poject-detail-section">
             <div class="tags">
