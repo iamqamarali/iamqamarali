@@ -24,3 +24,19 @@
         transform: rotate(45deg)
         text-transform: uppercase
         letter-spacing: .5px
+
+@include media-breakpoint-down(sm)
+    #app
+        .main
+            padding-left: 0
+        .blog-link
+            display: none
+            position: absolute
+            top: 130px
+            z-index: 1
+        .page
+            padding: 30px 30px 25px
+        .page-heading
+            font-size: 2em
+            margin-bottom: 20px
+

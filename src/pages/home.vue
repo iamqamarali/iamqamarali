@@ -1,6 +1,6 @@
 <template>
     <div class="home page">
-        <div class="my-info">
+         <div class="my-info"> 
             <h1 class="hello-heading page-heading">
                 Hello, <br> 
                 My name is Qamar Ali.

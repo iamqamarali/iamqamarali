@@ -4,10 +4,11 @@
     position: fixed
     min-height: 400px
     height: 100vh
+    z-index: 1000
     .sidebar-logo
         display: block
         text-decoration: none
-        width: 100%
+        width: 100% 
         text-align: center
         padding: 20px 0 15px
         font-size: .8em
@@ -64,3 +65,40 @@
             transition: .3s all
             &:hover
                 color: $primary
+
+@include media-breakpoint-down(sm)
+    .sidebar
+        position: relative
+        width: 100%
+        height: auto
+        min-height: auto
+        padding: 0
+        .sidebar-logo
+            display: inline-block
+            width: auto
+            padding: 10px 10px
+            .logo
+                width: 30px
+                margin-right: 5px
+        .sidebar-main-menu
+            position: static
+            display: flex
+            transform: none
+            .nav-item
+                flex: 1
+                padding: 10px
+            .nav-link
+                display: block
+        .sidebar-social-menu 
+            position: absolute
+            display: flex
+            top: 0
+            right: 0
+            bottom: auto
+            left: auto
+            margin-top: 10px
+            margin-right: 10px
+            .nav-link
+                padding: 10px
+        
+

@@ -5,7 +5,7 @@
     display: flex
     align-items: center
     overflow: hidden
-    .my-info
+    .my-info 
         width: 55%
     .hello-heading
         margin-bottom: 20px
@@ -40,3 +40,41 @@
             transition: .2s all
             &:hover
                 transform: scale(1.03)
+
+
+@include media-breakpoint-down(sm)
+    .home
+        min-height: auto
+        height: auto
+        display: block
+        align-items: center
+        overflow: hidden
+        .my-info 
+            width: 100%
+        .hello-heading
+            margin-bottom: 20px
+            font-size: 2em
+        .work-title
+            margin: 20px 0
+            font-size: .9em
+        .cta-text
+            margin-bottom: 30px
+        
+        
+        .contact-cta
+            position: relative
+            height: 340px
+            .background-graphic
+                position: absolute
+                top: 00px
+                width: 530px                
+                left: -45px
+            .contact-link
+                display: block
+            .contact-circle
+                top: 30px
+                left: 10px
+                width: 290px
+                transition: .2s all
+                &:hover
+                    transform: scale(1.03)
