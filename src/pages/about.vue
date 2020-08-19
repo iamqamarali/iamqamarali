@@ -8,7 +8,7 @@
                 <div class="about-me-content">
 
                     <p>My name is Qamar Ali and i build not only websites but everything related to web.</p>
-                    <p>My journey to Web Development started when i was 14 years old kid(that converts 
+                    <p>My journey to Web Development started when i was 16 years old kid(that converts 
                         into 7 years from now) when i started using facebook and wanted to know how 
                         does facebook work afterall.
                     </p>
