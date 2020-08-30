@@ -13,7 +13,7 @@
                         does facebook work afterall.
                     </p>
                     <p>
-                        I've finished my Bachelors in Computer Sciences from University of Central Punjab, 
+                        I've finished my <span class="text-primary">Bachelors in Computer Sciences</span> from <span class="text-primary">University of Central Punjab</span>, 
                         currently i'm working as a freelance Full Stack developer, sometimes i also write on <a href="http://medium.com/@iamqamarali/">medium</a> 
                         and contribute to open source projects on <a href="https://github.com/iamqamarali">Github</a>.
                     </p>
