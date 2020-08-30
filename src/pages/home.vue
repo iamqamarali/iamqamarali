@@ -18,7 +18,9 @@
                 <!-- I work with startups and companies to help them launch their digital products and website. -->
             </div>
 
-            <button class="btn  btn-outline-primary">Get In Touch</button>
+            <router-link :to="{name : 'contact'}" class="btn  btn-outline-primary">
+                Get In Touch
+            </router-link>
 
         </div>
 
