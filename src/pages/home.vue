@@ -12,7 +12,7 @@
             </h1>
             <div class="work-title">Full Stack Web Developer</div>
             <div class="about-text">
-                I'm a <span class="text-primary">Full Stack Developer</span> based in Lahore, Pakistan specializing is building exceptional websites, applications, and everything in between.
+                I'm a Full Stack Developer based in Lahore, Pakistan specializing is building exceptional websites, applications, and everything in between.
                 <br>
                 <br>
                 <!-- I work with startups and companies to help them launch their digital products and website. -->

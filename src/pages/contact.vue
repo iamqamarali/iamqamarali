@@ -4,8 +4,8 @@
             <h1 class="hello-heading page-heading">
             Contact
             </h1>
-            <p>Have a project? Need an Expert?</p>
-            <p>Leave it you me i'll take care of it, Just hit an email at <a href="mailto:iamqamarali1@gmail.com">iamqamarali1@gmail.com</a> and you're done.</p>
+            <p>Have a project?</p>
+            <p>Shoot me an email at <a href="mailto:iamqamarali1@gmail.com">iamqamarali1@gmail.com</a> and lets discuss it.</p>
             <p>Or click to find me on following social platforms and leave a message there.</p>
 
             <ul class="nav">
