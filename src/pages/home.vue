@@ -1,15 +1,25 @@
 <template>
     <div class="home page">
          <div class="my-info"> 
-            <h1 class="hello-heading page-heading">
-                Hello, <br> 
-                My name is Qamar Ali.
+
+            
+            <div class="hi-text">
+                Hi, my name is
+            </div>
+            <h1 class="cta-title page-heading">
+                Qamar Ali. </br> 
+                <span class="cta-subtitle">I build things for the web.</span>
             </h1>
             <div class="work-title">Full Stack Web Developer</div>
-            <div class="cta-text">
-                I work with startups and brands to help them launch their digital products and website,
-                I also write about my experiences and knowledge on <a href="https://medium.com/@iamqamarali" taret="_blank">medium</a>.
-            </div>                
+            <div class="about-text">
+                I'm a <span class="text-primary">Full Stack Developer</span> based in Lahore, Pakistan specializing is building exceptional websites, applications, and everything in between.
+                <br>
+                <br>
+                <!-- I work with startups and companies to help them launch their digital products and website. -->
+            </div>
+
+            <button class="btn  btn-outline-primary">Get In Touch</button>
+
         </div>
 
         <div class="contact-cta">

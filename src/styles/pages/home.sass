@@ -6,22 +6,35 @@
     align-items: center
     overflow: hidden
     .my-info 
-        width: 55%
-    .hello-heading
-        margin-bottom: 20px
+        width: 45%
+        margin-right: 10%
+        margin-top: -5%
+    .hi-text
+        margin-bottom: 15px
+        color: $primary
+    .cta-title
+        font-size: 3em
+        margin-bottom: 40px
+        color: white
+        line-height: 1.3em
+        opacity: .8
+    .cta-subtitle
+        opacity: .6
     .work-title
+        display: none
         margin: 20px 0
         font-size: .9em
-    .cta-text
-        margin-bottom: 30px
+    .about-text
+        margin-bottom: 40px
     
     
     .contact-cta
         position: relative
+        margin-top: -5%
         .background-graphic
             position: absolute
             top: -170px
-            width: 800px
+            width: 850px
             -webkit-user-select: none
             -moz-user-select: none
             -ms-user-select: none
@@ -34,12 +47,36 @@
             -ms-user-select: none
             user-select: none
             position: absolute
-            top: -110px 
-            left: 105px
-            width: 380px
+            top: -115px 
+            left: 100px
+            width: 450px
             transition: .2s all
             &:hover
                 transform: scale(1.03)
+
+    
+@include media-breakpoint-down(lg)
+    .home
+        .my-info 
+            width: 55%
+            margin-right: 0%
+            margin-top: 0
+        .contact-cta
+            position: relative
+            margin-top: 0
+            .background-graphic
+                width: 750px
+            .contact-circle
+                top: -125px 
+                left: 85px
+                width: 390px
+
+@include media-breakpoint-down(md)
+    .home
+        .cta-title
+            font-size: 2.5em
+        .cta-subtitle
+        .about-text
 
 
 @include media-breakpoint-down(sm)
@@ -50,31 +87,33 @@
         align-items: center
         overflow: hidden
         .my-info 
+            min-height: 65vh
             width: 100%
-        .hello-heading
-            margin-bottom: 20px
+            display: flex
+            flex-direction: column
+            align-items: start
+            justify-content: center
+        .cta-title
             font-size: 2em
-        .work-title
-            margin: 20px 0
-            font-size: .9em
-        .cta-text
             margin-bottom: 30px
+        .cta-subtitle
+        .about-text
+            margin-bottom: 25px
         
         
         .contact-cta
+            display: none
             position: relative
             height: 340px
+            margin-top: 40px
             .background-graphic
                 position: absolute
                 top: 00px
-                width: 530px                
+                width: 530px 
                 left: -45px
             .contact-link
                 display: block
             .contact-circle
                 top: 30px
                 left: 10px
-                width: 290px
-                transition: .2s all
-                &:hover
-                    transform: scale(1.03)
+                width: 300px
