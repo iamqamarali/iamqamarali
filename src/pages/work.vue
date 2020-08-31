@@ -51,15 +51,6 @@
                 </div> <!-- col end -->
 
 
-
-                <div class="col-md-6">
-                    <router-link to="/project/caafinancial-desktop-app" class="project">
-                        <img src="/images/projects/caafinancial-employee/caaafinancial-employee8.jpg" alt="" class="project-img">
-                        <div class="project-title">Caafinancial desktop app</div>
-                        <div class="project-type">Desktop App Development</div>
-                    </router-link> <!-- project end -->
-                </div> <!-- col end -->
-
                 <div class="col-md-6">
                     <router-link to="/project/webfx" class="project">
                         <img src="/images/projects/webfx/webfx.jpg" alt="" class="project-img">
@@ -68,16 +59,7 @@
                     </router-link> <!-- project end -->
                 </div> <!-- col end -->
 
-            <!--
-                <div class="col-md-6">
-                    <router-link to="/project/caafinancial" class="project">
-                        <img src="/images/projects/caafinancial/caafinancial3.jpg" alt="" class="project-img">
-                        <div class="project-title">Ecommerce Template designs</div>
-                        <div class="project-type">Full Stack Development - DevOps - server administration</div>
-                    </router-link>
-                </div>--> <!-- col end -->
-                
-
+        
                 <div class="col-md-12">
                     <a href="https://codepen.io/iamqamarali" target="_blank" class="project">
                         <img src="/images/projects/codepen.jpg" alt="" class="project-img">
@@ -117,26 +99,6 @@
     export default {
         data(){
             return {
-                projects :[
-                    { 
-                        id: 1,
-                        img: '',
-                        title: 'Caafinancial',
-                        type : 'Full Stack Development - DevOps - server administration'
-                    },
-                    {
-                        id : 2,
-                        img: '/images/projects/caafinancial-employee/employee-caafinancial4.jpg',
-                        title: 'Employee Caafinancial',
-                        type : 'Product Development'
-                    },
-                    {
-                        id : 3,
-                        img: '/images/projects/caafinancial/main.jpg',
-                        title: 'WebFx',
-                        type : 'Product Development'
-                    },
-                ]
 
             }
         }

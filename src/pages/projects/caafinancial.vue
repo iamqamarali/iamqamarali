@@ -1,9 +1,9 @@
 <template>
     <div class="project-single page">
         
-        <h1 class="page-heading">Caafinancial</h1>
+        <h1 class="page-heading d-inline-block">Caafinancial</h1> 
         <div class="project-company-description" >
-            <p>Caafinancial is an insurance agency from <strong>Aurora, Colorado in USA</strong>. They help people to take better decisions while buying insurance policies, they also help insurance companies by finding and providing them more clients.</p>            
+            <p>Caafinancial is an insurance agency from <strong>Aurora, Colorado in USA</strong>. They help people buying insurance policies, they also help insurance companies to find more clients.</p>            
         </div>
 
         <a href="http://caafinancial.com" target="_blank" class="btn btn-outline-primary website-link">Visit Website</a>
@@ -19,8 +19,6 @@
                 <span class="tag">Css3</span>
                 <span class="tag">JQuery</span>
                 <span class="tag">Php</span>
-                <span class="tag">API Development</span>
-                <span class="tag">Google Cloud Services</span>
             </div>
         </div>
 
@@ -28,33 +26,34 @@
             <h3>My Responsibilities</h3>
             <ul>
                 <li>
-                    <p>
-                        For caafinancial first i was hired to do <b>Full stack development</b> for their products,
-                        but i ended up doing the building, testing, deploying, managing and almost everything from development to devOps for their products.  
-                    </p>
+                    Selecting the technology stack by understanding the product and complexity.
                 </li>
                 <li>
-                    <p>
-                        First i created their main website which you can <a href="https://caafinancial.com" target="_blank">checkout here.</a> 
-                        Then i built a <a href="https://caafinancial.com/login" target="_blank">dashboard</a> for their employees to manage insurance automation and assist their customers.
-                    </p>
+                    Developing the front-end of the website using HTML,CSS, Javascript.
                 </li>
                 <li>
-                    <p>
-                        They had a windows bot which automates the insurance process, 
-                        so i also developed a <b>REST API</b> for them so the bots can connect to the backend.
-                    </p>
+                    Database design and architecture.
                 </li>
                 <li>
-                    <p>Finally i step a <b>CICD pipeline </b> for the project and deployed it on <b>GCP (Goodle Cloud Platform)</b> </p>
+                    Software architecture and backend development in laravel framework
                 </li>
                 <li>
-                    <p>
-                        I think the main challenge with this project was the automation part, 
-                        we've to trigger the bots through the dashboard and also trigger backend scripts through the bot, there was alot of backend and forth communication with alot of data.
-                        <br>
-                        It was a very good experience for me working on this project, one of the best i should say.
-                    </p>
+                    Api development to be consumed by insurance automation bot.
+                </li>
+                <li>
+                    Api integration stripe
+                </li>
+                <li>
+                    Develoing a dashboard for employees, front-end and back-end.
+                </li>
+                <li>
+                    Testing and deployment on Google Cloud Platform (GCP).
+                </li>
+                <li>
+                    Managing could and server administration.
+                </li>
+                <li>
+                    Creating a CICD (continuous integration and continuous deployment) pipeline.
                 </li>
             </ul>
         </div>
