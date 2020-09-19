@@ -1,6 +1,6 @@
 <template>
     <div class="sidebar ">
-        <router-link to="/home" class="sidebar-logo">
+        <router-link to="/" class="sidebar-logo">
             <img class="logo" src="/images/logo.png" alt="Qamar Ali">
             Qamar
         </router-link>

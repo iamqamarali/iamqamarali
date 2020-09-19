@@ -25,9 +25,9 @@
         </div>
 
         <div class="contact-cta">
-            <img src="/images/home-background-graphic.svg" alt="" class="background-graphic">
+            <img src="/images/home-background-graphic.png" alt="" class="background-graphic">
             <router-link :to="{name : 'contact'}" class="contact-link">
-                <img src="/images/home-contact.svg" alt="" class="contact-circle">
+                <img src="/images/home-contact.png" alt="" class="contact-circle">
             </router-link>
         </div>
     </div>
