@@ -1,6 +1,6 @@
 .project-single
     .page-content
-        max-width: 1200px
+        max-width: 800px
         margin: 0 auto
         padding-bottom: 0
     .website-link
@@ -20,7 +20,7 @@
     
     // for a images grid
     .project-images-grid
-        max-width: 1400px
+        max-width: 1300px
         margin: 0 auto
         margin-bottom: 100px
         .img-box
@@ -29,7 +29,7 @@
             margin-bottom: 40px
             .project-img
                 position: relative
-                height: 420px
+                height: 345px
                 background-color: white
                 margin: 0
                 background-size: cover
@@ -69,4 +69,13 @@
         .project-images-grid
             .img-box
                 .project-img
-                    height: 350px
+                    height: 420px
+
+@include media-breakpoint-down(sm)   
+   .project-single
+        .project-images-grid
+            margin: 0 -15px
+            .img-box
+                margin-bottom: 30px
+                .project-img
+                    height: 270px

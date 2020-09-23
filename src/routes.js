@@ -12,14 +12,12 @@ import serviceDoer from './pages/projects/servicedoer'
 import webfx from './pages/projects/webfx'
 
 import enno from './pages/projects/php-enno'
-import localworker from './pages/projects/localworker'
 
 let projectRoutes = [ 
     {path: '/project/caafinancial', component: caafinancial},
     {path: '/project/kai-emr', component: KaiEmr},
     {path: '/project/iamqamarali', component: iamqamarali}, 
     {path: '/project/servicedoer', component: serviceDoer},
-    {path: '/project/localworker', component: localworker},
     {path: '/project/webfx', component: webfx},
     {path: '/project/enno', component: enno}
     

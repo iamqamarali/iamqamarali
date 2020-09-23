@@ -32,21 +32,13 @@
                 </div> <!-- col end -->
 
 
-                <div class="col-md-12">
+
+
+                <div class="col-md-6">
                     <router-link to="/project/servicedoer" class="project">
                         <img src="/images/projects/servicedoer/servicedoer.jpg" alt="" class="project-img">
                         <div class="project-title">Service doer</div>
                         <div class="project-type">Full Stack Development - Machine Learning</div>
-                    </router-link> <!-- project end -->
-                </div> <!-- col end -->
-
-
-
-                <div class="col-md-6">
-                    <router-link to="/project/localworker" class="project">
-                        <img src="/images/projects/localworker/localworker.jpg" alt="" class="project-img">
-                        <div class="project-title">Localworker</div>
-                        <div class="project-type">Full Stack Development</div>
                     </router-link> <!-- project end -->
                 </div> <!-- col end -->
 

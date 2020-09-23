@@ -33,10 +33,10 @@
                         Developing the front-end in html, css3 and javascript.
                     </li>
                     <li>
-                        Providing a solid design library to make new pages easily.
+                        Providing a solid front-end framework to make new pages easily.
                     </li>
                     <li>
-                        Making sure each UI component is reusable and can be used anywhere.
+                        Making sure each UI component is reusable and can be used independently.
                     </li>
                 </ul>
             </div>

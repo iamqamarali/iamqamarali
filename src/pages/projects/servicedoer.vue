@@ -24,7 +24,7 @@
                     <span class="tag">JavaScript</span>
                     <span class="tag">Css3</span>
                     <span class="tag">HTML5</span>
-                    <span class="tag">Tensorflow.js (For ML)</span>
+                    <span class="tag">Tensorflow.js</span>
                 </div>
             </div>
 
