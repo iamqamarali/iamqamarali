@@ -15,15 +15,6 @@
 
 
                 <div class="col-md-6">
-                    <router-link to="/project/iamqamarali" class="project">
-                        <img src="/images/projects/iamqamarali/iamqamarali.jpg" alt="" class="project-img">
-                        <div class="project-title">iamqamarali</div>
-                        <div class="project-type">Front-end Development</div>
-                    </router-link> <!-- project end -->
-                </div> <!-- col end -->
-
-
-                <div class="col-md-12">
                     <router-link to="/project/kai-emr" class="project">
                         <img src="/images/projects/kai-emr/kai-emr.jpg" alt="" class="project-img">
                         <div class="project-title">KAI EMR</div>
@@ -31,8 +22,31 @@
                     </router-link> <!-- project end -->
                 </div> <!-- col end -->
 
+                <div class="col-md-6">
+                    <router-link to="/project/tesoro" class="project">
+                        <img src="/images/projects/tesoro/tesoro.jpg" alt="" class="project-img">
+                        <div class="project-title">Tesoro</div>
+                        <div class="project-type">Front-end Development</div>
+                    </router-link> <!-- project end -->
+                </div> <!-- col end -->
 
 
+                <div class="col-md-6">
+                    <router-link to="/project/underarmour" class="project">
+                        <img src="/images/projects/underarmour/underarmour2.jpg" alt="" class="project-img">
+                        <div class="project-title">Underarmour</div>
+                        <div class="project-type">Front-end Development</div>
+                    </router-link> <!-- project end -->
+                </div> <!-- col end -->
+
+
+                <div class="col-md-6">
+                    <router-link to="/project/iamqamarali" class="project">
+                        <img src="/images/projects/iamqamarali/iamqamarali.jpg" alt="" class="project-img">
+                        <div class="project-title">iamqamarali</div>
+                        <div class="project-type">Front-end Development</div>
+                    </router-link> <!-- project end -->
+                </div> <!-- col end -->
 
                 <div class="col-md-6">
                     <router-link to="/project/servicedoer" class="project">
@@ -51,8 +65,17 @@
                     </router-link> <!-- project end -->
                 </div> <!-- col end -->
 
+
+                <div class="col-md-6">
+                    <router-link to="/project/enno" class="project">
+                        <img src="/images/projects/php-enno.jpg" alt="" class="project-img">
+                        <div class="project-title">Enno - A lightweight Php mvc framework build by me</div>
+                        <div class="project-type">Php Development</div>
+                    </router-link> <!-- project end -->
+                </div> <!-- col end -->
+
         
-                <div class="col-md-12">
+                <div class="col-md-6">
                     <a href="https://codepen.io/iamqamarali" target="_blank" class="project">
                         <img src="/images/projects/codepen.jpg" alt="" class="project-img">
                         <div class="project-title">Codepen</div>
@@ -66,14 +89,6 @@
                         <div class="project-title">Contribute to open source on github</div>
                         <div class="project-type">Opensource contribution</div>
                     </a> <!-- project end -->
-                </div> <!-- col end -->
-
-                <div class="col-md-6">
-                    <router-link to="/project/enno" class="project">
-                        <img src="/images/projects/php-enno.jpg" alt="" class="project-img">
-                        <div class="project-title">Enno - A Php mvc framework</div>
-                        <div class="project-type">Php Development</div>
-                    </router-link> <!-- project end -->
                 </div> <!-- col end -->
 
             </div>

@@ -49,96 +49,76 @@
         </div> 
 
 
-            <div class="project-images-grid ">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <a href="" class="preview-box">
-                            <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-billing-php-2020-08-08-17_26_30.jpg')">
-                                <div class="img-hover-box">
-                                    
-                                </div>
-                            </div>
-                            <div class="img-caption">
-                                Inbox
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-6">
-                        <a href="" class="preview-box">
-                            <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-manage-renewal-requests-php-2020-08-08-17_24_28.jpg')">
-                                <div class="img-hover-box">
-                                    
-                                </div>
-                            </div>
-                            <div class="img-caption">
-                                Inbox
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-6">
-                        <a href="" class="preview-box">
-                            <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-inbox-php-2020-08-08-17_42_39.jpg')">
-                                <div class="img-hover-box">
-                                    
-                                </div>
-                            </div>
-                            <div class="img-caption">
-                                Inbox
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-6">
-                        <a href="" class="preview-box">
-                            <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-rx-php-2020-08-08-17_24_08.jpg')">
-                                <div class="img-hover-box">
-                                    
-                                </div>
-                            </div>
-                            <div class="img-caption">
-                                Inbox
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-6">
-                        <a href="" class="preview-box">
-                            <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-clinician-message-php-2020-08-08-17_24_56.jpg')">
-                                <div class="img-hover-box">
-                                    
-                                </div>
-                            </div>
-                            <div class="img-caption">
-                                Inbox
-                            </div>
-                        </a>
-                    </div>
+        <!-- images grid -->
+        <div class="project-images-grid ">
+            <div class="row">
+                <div class="col-lg-6">
+                    <a href="http://kai-oscar-emr.herokuapp.com/billing.php" target="_blank" class="preview-box">
+                        <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-billing-php-2020-08-08-17_26_30.jpg')">
+                            <div class="img-hover-box">
 
-                    <div class="col-lg-6">
-                        <a href="" class="preview-box">
-                            <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-clinician-reply-php-2020-08-08-17_24_46.jpg')">
-                                <div class="img-hover-box">
-                                    
-                                </div>
                             </div>
-                            <div class="img-caption">
-                                Inbox
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-6">
+                    <a href="http://kai-oscar-emr.herokuapp.com/manage-renewal-requests.php" target="_blank" class="preview-box">
+                        <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-manage-renewal-requests-php-2020-08-08-17_24_28.jpg')">
+                            <div class="img-hover-box">
+                                
                             </div>
-                        </a>
-                    </div>
-                    <div class="col-lg-6">
-                        <a href="" class="preview-box">
-                            <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-inbox-php-2020-08-08-17_33_20.jpg')">
-                                <div class="img-hover-box">
-                                    
-                                </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-6">
+                    <a href="http://kai-oscar-emr.herokuapp.com/inbox.php" target="_blank" class="preview-box">
+                        <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-inbox-php-2020-08-08-17_42_39.jpg')">
+                            <div class="img-hover-box">
+                                
                             </div>
-                            <div class="img-caption">
-                                Inbox
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-6">
+                    <a href="http://kai-oscar-emr.herokuapp.com/rx.php" target="_blank" class="preview-box">
+                        <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-rx-php-2020-08-08-17_24_08.jpg')">
+                            <div class="img-hover-box">
+                                
                             </div>
-                        </a>
-                    </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-6">
+                    <a href="http://kai-oscar-emr.herokuapp.com/clinician/message.php" target="_blank" class="preview-box">
+                        <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-clinician-message-php-2020-08-08-17_24_56.jpg')">
+                            <div class="img-hover-box">
+                                
+                            </div>
+                        </div>
+                    </a>
                 </div>
 
-            </div><!-- images grid -->
+                <div class="col-lg-6">
+                    <a href="http://kai-oscar-emr.herokuapp.com/clinician/compose.php" target="_blank" class="preview-box">
+                        <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-clinician-reply-php-2020-08-08-17_24_46.jpg')">
+                            <div class="img-hover-box">
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-6">
+                    <a href="" class="preview-box">
+                        <div class="project-img" style="background-image:url('/images/projects/kai-emr/screencapture-prototypes-freshcontrast-oscar-pages-inbox-php-2020-08-08-17_33_20.jpg')">
+                            <div class="img-hover-box">
+                                
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
 
     </div>
 </template>

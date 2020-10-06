@@ -27,9 +27,12 @@
             display: block
             text-decoration: none !important
             margin-bottom: 40px
+            transition: .2s all
+            &:hover
+                transform: scale(1.05)
             .project-img
                 position: relative
-                height: 345px
+                height: 380px
                 background-color: white
                 margin: 0
                 background-size: cover
@@ -38,6 +41,9 @@
                 margin-bottom: 15px
                 border-radius: 4px
                 overflow: hidden
+                &:hover
+                    .img-hover-box
+                        opacity: 1
                 .img-hover-box
                     position: absolute
                     top: 0
@@ -52,9 +58,6 @@
                     align-items: center
                     transition: .3s all ease-in-out
                     opacity: 0
-                &:hover
-                    .img-hover-box
-                        opacity: 1
             .img-caption
                 font-weight: bold
                 color: #eee
@@ -71,13 +74,21 @@
         .project-images-grid
             .preview-box
                 .project-img
-                    height: 420px
+                    height: 450px
 
 @include media-breakpoint-down(sm)   
+   .project-single
+        .project-images-grid
+            .preview-box
+                .project-img
+                    height: 350px
+
+
+@include media-breakpoint-down(xs)   
    .project-single
         .project-images-grid
             margin: 0 -15px
             .preview-box
                 margin-bottom: 30px
                 .project-img
-                    height: 270px
+                    height: 210px
