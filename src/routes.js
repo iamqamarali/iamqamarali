@@ -8,10 +8,10 @@ import caafinancial from './pages/projects/caafinancial'
 import KaiEmr from './pages/projects/kai-emr'
 import iamqamarali from './pages/projects/iamqamarali'
 import serviceDoer from './pages/projects/servicedoer'
-
 import webfx from './pages/projects/webfx'
-
 import enno from './pages/projects/php-enno'
+import tesoro from './pages/projects/tesoro'
+import underarmour from './pages/projects/underarmour'
 
 let projectRoutes = [ 
     {path: '/project/caafinancial', component: caafinancial},
@@ -19,8 +19,9 @@ let projectRoutes = [
     {path: '/project/iamqamarali', component: iamqamarali}, 
     {path: '/project/servicedoer', component: serviceDoer},
     {path: '/project/webfx', component: webfx},
-    {path: '/project/enno', component: enno}
-    
+    {path: '/project/enno', component: enno},
+    {path: '/project/tesoro', component: tesoro},
+    {path: '/project/underarmour', component: underarmour}
 ]
 
 let otherRoutes = [

@@ -9,18 +9,16 @@
                 It's a <a href="https://dzone.com/articles/what-is-a-single-page-application">SPA(Single Page Application)</a> 
                 built in <strong>Vue.js</strong>.
             </p>
+            <a href="https://github.com/iamqamarali/iamqamarali" target="_blank" class="btn btn-outline-primary">View Repository <span class="ml-2 ti-github"></span> </a>
 
 
-            <h3>Technology Stack</h3>
             <div class="technology-stack  poject-detail-section">
                 <div class="tags">
                     <span class="tag">Vue.js</span>
-                    <span class="tag">JavaScript</span>
                     <span class="tag">Sass</span>
-                    <span class="tag">Css3</span>
-                    <span class="tag">Html</span>
-                    <span class="tag">Spa (Single Page Application)</span>                
+                    <span class="tag">Spa (Single Page Application)</span>
                     <span class="tag">Adobe XD</span>                
+                    <span class="tag">Heroku</span>                
                 </div>
             </div>
 
