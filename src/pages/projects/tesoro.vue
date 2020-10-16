@@ -4,8 +4,8 @@
         <div class="page-content">
             <h1 class="page-heading">Tesoro</h1>
             <p class="project-company-description">
-                Complete front-end development of <a href="https://tesoro.pk" target="_blank">Tesoro.pk</a> in Vue.js.
-                It was a great experience creating a fully functional front-end template in vue.js. After this, i think my front-end development skills have improved immensely.               
+                For <a href="https://tesoro.pk" target="_blank">Tesoro.pk</a> i've developed the complete front-end using vue.js. 
+                It was a great experience for me creating a fully functional front-end template in vue.js. After this, i think my front-end development skills have improved immensely.
             </p>
 
             <a href="https://tesoro.pk" target="_blank" class="btn btn-outline-primary">Visit Website</a>
