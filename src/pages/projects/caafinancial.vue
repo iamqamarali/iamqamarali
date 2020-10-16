@@ -4,22 +4,21 @@
         <div class="page-content">
             <h1 class="page-heading d-inline-block">Caafinancial</h1> 
             <div class="project-company-description" >
-                <p>Caafinancial is an insurance agency from <strong>Aurora, Colorado in USA</strong>. They help people buying insurance policies, they also help insurance companies to find more clients.</p>            
+                <p><a href="https://caafinancial.com" target="_blank">Caafinancial</a> is an insurance agency from <strong>Aurora, Colorado in USA</strong>. They help people buying insurance policies, they also help insurance companies to find more clients.</p>            
             </div>
 
-            <a href="http://caafinancial.com" target="_blank" class="btn btn-outline-primary website-link">Visit Website</a>
-
             <div class="technology-stack  poject-detail-section">
-                <h3>Technology Stack</h3>
                 <div class="tags">
                     <span class="tag">Laravel</span>
-                    <span class="tag">Mongodb</span>
                     <span class="tag">Php</span>
-                    <span class="tag">JavaScript</span>
-                    <span class="tag">Html5</span>
-                    <span class="tag">Css3</span>
-                    <span class="tag">Sass</span>
+                    <span class="tag">Mongodb</span>
+                    <span class="tag">Websocket</span>
+                    <span class="tag">Stripe Api</span>
+                    <span class="tag">Trello Api</span>
                     <span class="tag">Google Cloud Platform (GCP)</span>
+                    <span class="tag">ECMAScript 5</span>
+                    <span class="tag">Scss</span>
+                    <span class="tag">Bootstrap</span>
                 </div>
             </div>
 
@@ -27,36 +26,41 @@
                 <h3>My Responsibilities</h3>
                 <ul>
                     <li>
-                        Selecting technology stack by understanding the product and complexity.
+                        Selected the technology stack by understanding the product and complexity.
                     </li>
                     <li>
-                        Developing the front-end of the website using HTML,CSS, Javascript.
+                        Software architecture and backend development using laravel framework.
                     </li>
                     <li>
-                        Database design and architecture.
+                        Developed the front-end of the website using Bootstrap, Scss and JavaScript
                     </li>
                     <li>
-                        Software architecture and backend development in laravel framework
+                        Deployed a websocket server and integrated websockets on front-end for realtime communication.
                     </li>
                     <li>
-                        Api development to be consumed by insurance automation bot.
+                        Database design and architecture (Mongodb).
                     </li>
                     <li>
-                        Api integration (stripe)
+                        Api development to be consumed by caafinancial automation bot.
                     </li>
                     <li>
-                        Developing a dashboard for employees, front-end and back-end.
+                        Api integration (stripe and trello api).
+                    </li>
+                    <li>
+                        Developed a dashboard for employees, front-end and back-end.
                     </li>
                     <li>
                         Deployment and testing on Google Cloud Platform (GCP).
                     </li>
                     <li>
-                        Managing cloud services and server administration.
+                        Server administration and managing clout services.
                     </li>
                     <li>
                         Setting up a CICD (continuous integration and continuous deployment) pipeline.
                     </li>
                 </ul>
+
+                This project was really a deal breaker for me, i've learned sooooo much while developing and going through this project that i wouldn't ever have learnet. Now i see myself as a much profound developer.
             </div>
 
 

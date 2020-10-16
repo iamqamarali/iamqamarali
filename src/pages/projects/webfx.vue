@@ -22,9 +22,8 @@
             <div class="project-my-responsibilities poject-detail-section">
                 <h3>My Responsibilities</h3>
                 <p>
-                    Webfx do seo analysis of their clients by using another service. They didn't wanted their customers to see 
-                    their SEO reports on that other service which is why they asked me scrap their customer's 
-                    reports from that website and put it on theirs.
+                    Webfx do SEO analysis of their clients wesites by using another service. They didn't wanted their customers to see 
+                    their SEO reports on the other service that they use, so they asked me to scrap the reports and put it on their website.
                 </p>
             </div>
             

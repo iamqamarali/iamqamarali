@@ -22,9 +22,9 @@
                     <span class="tag">Mongodb</span>
                     <span class="tag">Vue.js</span>
                     <span class="tag">JavaScript</span>
-                    <span class="tag">Css3</span>
-                    <span class="tag">HTML5</span>
+                    <span class="tag">Bootstrap</span>
                     <span class="tag">Tensorflow.js</span>
+                    <span class="tag">Google Cloud Platform (GCP)</span>
                 </div>
             </div>
 
