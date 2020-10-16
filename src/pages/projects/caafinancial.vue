@@ -13,7 +13,6 @@
                     <span class="tag">Php</span>
                     <span class="tag">Mongodb</span>
                     <span class="tag">Websocket</span>
-                    <span class="tag">Web RTC</span>
                     <span class="tag">Stripe Api</span>
                     <span class="tag">Trello Api</span>
                     <span class="tag">Google Cloud Platform (GCP)</span>
@@ -36,7 +35,7 @@
                         Developed the front-end of the website using Bootstrap, Scss and JavaScript
                     </li>
                     <li>
-                        Deployed a websocket server and integrated websockets on front-end for realtime communication (web RTC).
+                        Deployed a websocket server and integrated websockets on front-end for realtime communication.
                     </li>
                     <li>
                         Database design and architecture (Mongodb).
