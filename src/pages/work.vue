@@ -8,8 +8,16 @@
                 <div class="col-md-6">
                     <router-link to="/project/caafinancial" class="project">
                         <img src="/images/projects/caafinancial/caafinancial.jpg" alt="" class="project-img">
-                        <div class="project-title">Caafinancial</div>
-                        <div class="project-type">Full Stack Development - DevOps - Product Development</div>
+                        <div class="project-title">
+                            Caafinancial
+                            <small>Full Stack Development </small>    
+                        </div>
+                        <div class="technology">
+                            <span class="mx-2">Laravel</span>
+                            <span class="mx-2">Php</span>
+                            <span class="mx-2">JS</span>
+                            <span class="mx-2">Google Cloud Platform</span>
+                        </div>
                     </router-link> <!-- project end -->
                 </div> <!-- col end --> 
 
