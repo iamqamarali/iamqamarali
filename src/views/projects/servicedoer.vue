@@ -29,12 +29,12 @@
             </div>
 
             <img src="/images/projects/servicedoer/Home.jpg" class="img img-fluid project-img" />
-            <img src="/images/projects/servicedoer/Serive Providers List.jpg" class="img img-fluid project-img" />
-            <img src="/images/projects/servicedoer/Service Provider page.jpg" class="img img-fluid project-img" />
-            <img src="/images/projects/servicedoer/Become a doer.jpg" class="img img-fluid project-img" />
-            <img src="/images/projects/servicedoer/Become a doer Step 2.jpg" class="img img-fluid project-img" />
-            <img src="/images/projects/servicedoer/Subscription page.jpg" class="img img-fluid project-img" />
-            <img src="/images/projects/servicedoer/Privider Completiton of order.jpg" class="img img-fluid project-img" />
+            <img src="/images/projects/servicedoer/spl.jpg" class="img img-fluid project-img" />
+            <img src="/images/projects/servicedoer/spp.jpg" class="img img-fluid project-img" />
+            <img src="/images/projects/servicedoer/Become-a-doer.jpg" class="img img-fluid project-img" />
+            <img src="/images/projects/servicedoer/Become-a-doer-step-2.jpg" class="img img-fluid project-img" />
+            <img src="/images/projects/servicedoer/Subscription-page.jpg" class="img img-fluid project-img" />
+            <img src="/images/projects/servicedoer/Privider-Completiton-of-order.jpg" class="img img-fluid project-img" />
             
 
         </div>        

@@ -27,8 +27,8 @@
                 </p>
             </div>
             
-            <img src="/images/projects/webfx/screencapture-finalsite-herokuapp-scanned-reports-abrahamjoshua-0014000000gyz2d-2019-08-18-09_14_36.jpg" class="img img-fluid project-img" />
-            <img src="/images/projects/webfx/screencapture-finalsite-herokuapp-scanned-reports-2019-08-18-09_13_01.jpg" class="img img-fluid project-img" />
+            <img src="/images/projects/webfx/abc.jpg" class="img img-fluid project-img" />
+            <img src="/images/projects/webfx/123.png" class="img img-fluid project-img" />
             
         </div>
     </div>
