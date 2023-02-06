@@ -1,0 +1,41 @@
+
+#app
+    overflow-x: hidden
+.sidebar
+.main
+    padding-left: $sidebar-width
+.page 
+    padding: 60px 60px 45px
+.page-heading
+    font-weight: 700
+    color: $primary
+    margin-bottom: 30px
+.blog-link
+    position: fixed
+    top: 15px
+    right: -35px
+    font-size: .9em
+    padding: 8px 20px
+    z-index: 10
+    text-decoration: none
+    background-color: $secondry
+    min-width: 140px
+    text-align: center
+    transform: rotate(45deg)
+    text-transform: uppercase
+    letter-spacing: .5px
+
+@media (max-width: 767.98px)
+    .main
+        padding-left: 0
+    .blog-link
+        display: none
+        position: absolute
+        top: 130px
+        z-index: 1
+    .page
+        padding: 30px 30px 25px
+    .page-heading
+        font-size: 2em
+        margin-bottom: 20px
+

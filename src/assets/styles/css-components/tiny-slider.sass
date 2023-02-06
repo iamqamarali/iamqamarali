@@ -1,0 +1,50 @@
+.tns-outer
+    position: relative
+.tns-controls
+    button
+        display: flex
+        justify-content: center 
+        align-items: center
+        position: absolute
+        top: 50%
+        margin-top: -30px
+        z-index: 20
+        background-color: rgba(0,0,0,.5)
+        height: 60px
+        width: 50px
+        font-size: 1.3em
+        font-weight: bold
+        border: 0
+        color: white
+    button:first-child
+        left: 0px
+    button:last-child
+        right: 0px
+.tns-nav
+
+button[data-action="stop"],
+button[data-action="start"]
+    display: none
+
+.tns-nav
+    margin-top: 20px
+    text-align: center
+    button
+        background-color: #fff
+        opacity: .13
+        border: 0
+        width: 13px
+        height: 13px
+        border-radius: 50%
+        box-shadow: none
+        margin: 0 5px
+        outline: 0
+    button.tns-nav-active
+        opacity: .5
+
+@media (max-width: 575.98px)
+    .tns-controls
+        button:first-child
+            left: -10px
+        button:last-child
+            right: -10px
